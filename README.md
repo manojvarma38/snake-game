@@ -59,7 +59,7 @@ To run the game:
 
 ## 🎮 Demo
 
-![Snake Game Demo](demo.gif)
+![Snake Game Demo](https://github.com/manojvarma38/snake-game/blob/2132858f463a97b5d78e2b7b39db8311ea2ece26/demo.gif)
 
 > A short looped gameplay demo of the project.
 
