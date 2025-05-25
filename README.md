@@ -59,7 +59,7 @@ To run the game:
 
 ## 🎮 Demo
 
-![Snake Game Demo] (demo.gif)
+![Snake Game Demo](demo.gif)
 
 > A short looped gameplay demo of the project.
 
