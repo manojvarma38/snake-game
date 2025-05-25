@@ -20,8 +20,7 @@ Snake-Game/
 │   ├── include/       # SDL3 headers
 │   └── lib/           # SDL3 libraries
 ├── snake_game.cpp
-├── demo.gif
-└── README.md
+
 ```
 
 Place the SDL `include/` and `lib/` folders inside a `src/` directory within your project.
